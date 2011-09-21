@@ -1,0 +1,17 @@
+#delphi compiled units
+*.dcu
+*.obj
+*.bpl
+*.data
+*.ACSDAT
+*.ACSIDX
+*.ACSBLB
+*.dbk
+*.ibk
+
+#backup files
+*.~*
+*.*~
+
+#executable files
+*.exe
